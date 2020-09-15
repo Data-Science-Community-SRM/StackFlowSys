@@ -11,7 +11,7 @@
 
  Stack Exchange has released its data-dumps of all its publically available contents including all the stack exchange communities like stack Overflow, Super user, Ask Ubuntu, Server Fault, etc. The data includes posts, users, comments, badges, postfeedbacks, postHistory, postTags, postTypes, reviewTasks,tags, votes, etc. Analyze Stack Exchange data and generate insights. Process posts data and develop program to solve various KPI''s and problems. Also the purpose of the project is to parse the unstructured data into structured format.
 
-## Again cross-checking whether the environment has ben set.
+## Again cross-checking whether the environment has been set.
 
  - [How to setup the Spark environment](https://youtu.be/ql95CrGob48)
 
