@@ -16,15 +16,15 @@
  Stack Exchange has released its data-dumps of all its publicly available contents including all the stack exchange communities like stack Overflow, Super user, Ask Ubuntu, Server Fault, etc. The data includes posts, users, comments, badges, post-feedbacks, post-History, post-Tags, post-Types, review-Tasks, tags, votes, etc. Analyze Stack Exchange data and generate insights. Process posts data and develop program to solve various KPI''s and problems. Also the purpose of the project is to parse the unstructured data into structured format.
 
 ## Sample Data Post
-<row Id="41" PostTypeId="1" AcceptedAnswerId="44" 
-CreationDate="2014-05-14T11:15:40.907"
-Score="28" ViewCount="1897" Body="&lt;p&gt;R has many libraries which are aimed 
-at Data Analysis
-(e.g.   JAGS, BUGS, ARULES etc..), and is mentioned in popular textbooks such 
-as: J.Krusche, Doing
-Bayesian Data Analysis; B.Lantz, &quot;Machine Learning with
-R&quot;.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;I've seen a guideline of 5TB for a dataset 
-to be considered as
+- "<row Id="41" PostTypeId="1" AcceptedAnswerId="44" 
+  CreationDate="2014-05-14T11:15:40.907"
+   Score="28" ViewCount="1897" Body="&lt;p&gt;R has many libraries which are aimed
+   at Data Analysis
+  (e.g.   JAGS, BUGS, ARULES etc..), and is mentioned in popular textbooks such 
+   as: J.Krusche, Doing
+ Bayesian Data Analysis; B.Lantz, &quot;Machine Learning with
+  R&quot;.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;I've seen a guideline of 5TB for a dataset 
+ to be considered as
 Big   Data.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;My question is: Is R suitable for the 
 amount of Data typically
 seen in Big Data problems? &#xA;Are there strategies to be employed when using 
@@ -160,11 +160,18 @@ Ojas Gupta
 <img src = "https://github.com/Data-Science-Community-SRM/template/blob/master/logo-light.png?raw=true"  height="120" alt="Your Name Here (Insert Your Image Link In Src">
 </p>
 <p align="center">
-<a href = "https://github.com/ShubhangiSoni1603"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
-<a href = "https://www.linkedin.com/in/shubhangi-soni/">
+<a href = "https://github.com/oojas"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
+<a href = "https://www.linkedin.com/in/ojasgupta13/">
 <img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/>
 </a>
 </p>
 </td>
 
 <td>
+
+## License
+[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
+
+<p align="center">
+	Made with :heart: by <a href="https://dscommunity.in">DS Community SRM</a>
+</p>
