@@ -1,3 +1,15 @@
+<p align="center">
+<a href="https://dscommunity.in">
+	<img src="https://github.com/Data-Science-Community-SRM/template/blob/master/Header.png?raw=true" />
+</a>
+	<h2 align="center">  Forecasting the upcoming-elections-in-the-us-extracting-tweets
+  </h2>
+	<h4 align="center">  Introduction</h4>
+
+
+
+
+
 # Stack-Exchange Data Analysis
 
 ## Prerequisites
