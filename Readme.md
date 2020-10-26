@@ -16,7 +16,7 @@
  Stack Exchange has released its data-dumps of all its publicly available contents including all the stack exchange communities like stack Overflow, Super user, Ask Ubuntu, Server Fault, etc. The data includes posts, users, comments, badges, post-feedbacks, post-History, post-Tags, post-Types, review-Tasks, tags, votes, etc. Analyze Stack Exchange data and generate insights. Process posts data and develop program to solve various KPI''s and problems. Also the purpose of the project is to parse the unstructured data into structured format.
 
 ## Sample Data Post
-- "<row Id="41" PostTypeId="1" AcceptedAnswerId="44" 
+- ""<row Id="41" PostTypeId="1" AcceptedAnswerId="44" "
   CreationDate="2014-05-14T11:15:40.907"
    Score="28" ViewCount="1897" Body="&lt;p&gt;R has many libraries which are aimed
    at Data Analysis
