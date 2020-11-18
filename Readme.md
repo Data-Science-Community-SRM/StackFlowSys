@@ -4,6 +4,10 @@
 </a>
 	<h2 align="center"> Stack Exchange Data Analysis </h2>
 
+<p align="center">
+	<img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/318_Stack_Overflow_logo-512.png" />
+	</p>
+
 ## Prerequisites
 
 1. - [Install VMWare Workstation ](https://youtu.be/9QXXyG0hKtI)
