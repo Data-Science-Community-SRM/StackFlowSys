@@ -3,6 +3,13 @@
 	<img src="https://github.com/Data-Science-Community-SRM/template/blob/master/Header.png?raw=true" />
 </a>
 	<h2 align="center"> Stack Exchange Data Analysis </h2>
+	
+	
+
+
+<p align="left">
+	<img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/318_Stack_Overflow_logo-512.png" />
+	</p>
 
 ## Prerequisites
 
@@ -107,6 +114,12 @@ was started, etc.
 
 •     CommunityOwnedDate (present only if post is community wikied)
 
+<p align="center">
+	<img src="https://www.linkpicture.com/q/Data_1.png" />
+</a>
+	<h2 align="center"> Input Data </h2>
+
+
 
 ## KPI
 
@@ -147,6 +160,10 @@ the specified time
 range (from 01-01-2015  to 31-12-2015)
 
 12.  Average time for a post to get a correct answer
+
+<p align="center">
+	<img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Stack_Exchange_Logo.png" />
+	</p>
 
 ## Contributors
 
