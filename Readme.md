@@ -5,9 +5,7 @@
 	<h2 align="center"> Stack Exchange Data Analysis </h2>
 	
 	
-<p align="center">
-	<img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Stack_Exchange_Logo.png" />
-	</p>
+
 
 <p align="left">
 	<img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/318_Stack_Overflow_logo-512.png" />
@@ -162,6 +160,10 @@ the specified time
 range (from 01-01-2015  to 31-12-2015)
 
 12.  Average time for a post to get a correct answer
+
+<p align="center">
+	<img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Stack_Exchange_Logo.png" />
+	</p>
 
 ## Contributors
 
