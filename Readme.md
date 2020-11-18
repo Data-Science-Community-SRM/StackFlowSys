@@ -108,7 +108,7 @@ was started, etc.
 •     CommunityOwnedDate (present only if post is community wikied)
 
 <p align="center">
-	<img src="https://github.com/Data-Science-Community-SRM/template/blob/master/Header.png?raw=true" />
+	<img src="https://www.linkpicture.com/q/Data_1.png" />
 </a>
 	<h2 align="center"> Input Data </h2>
 
